@@ -26,5 +26,5 @@ I was able to use these tools in my analysis to filter by country & category/sub
 
 ![](https://github.com/lawnshogan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-<img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" alt="Theater_Outcomes_vs_Launch" width="200"/>
+<img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" alt="Theater_Outcomes_vs_Launch" width="500"/>
 ### **Challenges**
