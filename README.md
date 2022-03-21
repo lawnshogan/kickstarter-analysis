@@ -28,4 +28,33 @@ I was able to use these tools in my analysis to filter by country & category/sub
   <img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="700"/>
 </p>
 
-### **Challenges***
+From here, Louise needed to know about the outcomes based on goals. Creating a new table, I was able to create ranges and use the =Countifs formula to create a summary of outcomes based on pledged dollars for 'play' related Kickstarter Campaigns.
+
+<p align="center">
+  <img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png" width="700"/>
+</p>
+
+### **Challenges**
+The first thing that I will say is every challenge I encountered was fixed by a Google Search. I'm realizing how important the context is when you are searching for answers. This was very helpful and helped me learn. 
+
+I struggled at first with Pivot tables, however they quickly became easier for me after some practice and knowing how to look at the data to make sure you are answering the correct questions.
+
+I especially enjoyed learning about the different Excel formulas and applying them to the analysis. Excel makes math very easy, as long as you are entering in your code correctly!
+
+### **Results**
+Theater Outcomes by Launch Date
+- The highest amount of successful campaigns in the Theater category were launched in May.
+- The fewest successful campaigns in the Theater category launched in Decemeber.
+Successful campaigns 
+
+Outcomes Based on Goals
+
+- The campaigns that failed had less than $1,000 pledged.
+- The campaigns that succeeded had over $5,000 pledged.
+
+
+It would be interesting to see which of these are still active and profiting, which could be used in another analysis in itself. 
+
+I think it's important to look at the Percent funded and Average Donation size as well. A pivot table could be created to show average donation size for successful vs failed campaigns. I believe it would also be important to show the average percent of funding for successful campaigns.
+
+I noticed there is a 'Staff Pick' column in the spreadsheet as well. You could use this to not only filter out successful campaigns, but to go even further and only include those that were picked by staff.
