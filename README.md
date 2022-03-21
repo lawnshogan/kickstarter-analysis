@@ -24,11 +24,8 @@ With these questions in mind, we can begin filtering our data and set parameters
 
 I was able to use these tools in my analysis to filter by country & category/subcategory to summarize and visualize the number of failed, canceled and successful. Now that I practiced comparing outcomes to categories/subcategories, it was time to compare outcomes based on the launch date using the same methods, using months on the x-axis.
 
-<img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" alt="Theater_Outcomes_vs_Launch" width="700"/>
-
-### **Challenges**
-
-
 <p align="center">
   <img src="https://github.com/lawnshogan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="700"/>
 </p>
+
+### **Challenges***
