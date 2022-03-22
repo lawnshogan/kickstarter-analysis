@@ -45,7 +45,6 @@ I especially enjoyed learning about the different Excel formulas and applying th
 Theater Outcomes by Launch Date
 - The highest amount of successful campaigns in the Theater category were launched in May.
 - The fewest successful campaigns in the Theater category launched in Decemeber.
-Successful campaigns 
 
 Outcomes Based on Goals
 
