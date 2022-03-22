@@ -49,8 +49,7 @@ Successful campaigns
 
 Outcomes Based on Goals
 
-- The campaigns that failed had less than $1,000 pledged.
-- The campaigns that succeeded had over $5,000 pledged.
+- The campaigns that failed had had higher goals that could not be met.
 
 
 It would be interesting to see which of these are still active and profiting, which could be used in another analysis in itself. 
